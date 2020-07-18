@@ -6,7 +6,7 @@
 
 **hy-flask** is a minimal [Flask][flask] application with Docker and [Hy][hylang].
 
-Read the companion article on [my blog](https://www.rockyourcode.com/hello-world-from-flask-with-hylang-with-docker/).
+Read the companion article on [my blog](https://www.rockyourcode.com/hello-world-from-flask-with-hylang-using-docker/).
 
 ## Installation
 
